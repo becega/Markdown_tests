@@ -22,5 +22,5 @@
   <p align ="center">
   <img src="state_machine_ui.jpg" alt="State Machine UI" align="center">
   <p align ="center">
-  <figcaption align ="center">Figure 2.2 State Machine UI.</figcaption>
+ Figure 2.2 State Machine UI.
   </p>
