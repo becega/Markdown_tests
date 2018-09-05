@@ -8,3 +8,5 @@
 
 
 ![Figure 1.13 Custom Temperature Controller Includes Block Diagram](state_machine_ui.jpg)
+
+*Figure 1.13*
